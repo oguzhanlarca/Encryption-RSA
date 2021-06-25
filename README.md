@@ -1,8 +1,12 @@
----------------------------------------------------------------------
-Step-1: Choose two prime number p and q
+<img src="icon.png" align="left" />
+
+# Algorithm
+## Step-1
+Choose two prime number p and q
 Lets take p = 3 and q = 11
 
-Step-2: Compute the value of n and \phi
+## Step-2
+Compute the value of n and \phi
 It is given as,
 n = p \times q and \phi = (p-1) \times (q-1)
 
@@ -10,7 +14,8 @@ Here in the example,
 n = 3 \times 11 = 33
 \phi = (3-1) \times (11-1) = 2 \times 10 = 20
 
-Step-3: Find the value of e (public key)
+## Step-3
+Find the value of e (public key)
 Choose e, such that e should be co-prime. Co-prime means it should not
 multiply by factors of \phi and also not divide by \phi
 
@@ -66,4 +71,5 @@ Encryption is c = 2^{7}\mod 33 = 29
 Decryption is t = 29^{3}\mod 33 = 2
 
 Therefore in the final, p = 3, q = 11, \phi = 20, n = 33, e = 7 and d = 3
--------------------------------------------------------------------------------
+
+Sakarya University - Computer Engineering - Cryptography Class
