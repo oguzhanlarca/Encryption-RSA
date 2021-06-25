@@ -1,6 +1,10 @@
 <img src="icon.png" align="left" />
 
-# Algorithm
+# Algorithm - EncryptionRSA
+
+Sakarya University - Computer Engineering - Cryptography Class
+
+
 ## Step-1
 Choose two prime number p and q
 Lets take p = 3 and q = 11
@@ -72,4 +76,3 @@ Decryption is t = 29^{3}\mod 33 = 2
 
 Therefore in the final, p = 3, q = 11, \phi = 20, n = 33, e = 7 and d = 3
 
-Sakarya University - Computer Engineering - Cryptography Class
