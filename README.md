@@ -2,9 +2,7 @@
 
 # Algorithm - EncryptionRSA
 
-Sakarya University
-
-Computer Engineering
+Sakarya University - Computer Engineering
 
 Cryptography Class
 
